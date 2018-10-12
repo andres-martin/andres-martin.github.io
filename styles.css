@@ -1,0 +1,39 @@
+body,
+html {
+  font-family: "Shadows Into Light", cursive;
+  background-image: url(https://source.unsplash.com/user/erondu/1400x900);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  text-align: center;
+  padding-top: 2rem;
+  margin: auto;
+}
+.img-perfil {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.nombre-ciudad {
+  margin: auto;
+  padding: 1px;
+  text-align: center;
+  width: 100%;
+  opacity: 0.5;
+  margin: auto;
+  background-color: #000;
+  border-radius: 25px;
+}
+h1,
+h2 {
+  letter-spacing: 5px;
+  text-align: center;
+  text-align: center;
+  color: rgb(245, 249, 252);
+}
